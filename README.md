@@ -1,3 +1,8 @@
+## What we have learned in based on Alpaca Fine-tuning
+
+- There are some outdated config in Gradio part. For example, the output textbox cannot be displayed correctly.
+- If you want to choose to use customized dataset, please do this first: https://github.com/tloen/alpaca-lora/issues/609
+
 # 🦙🌲🤏 Alpaca-LoRA
 
 - 🤗 **Try the pretrained model out [here](https://huggingface.co/spaces/tloen/alpaca-lora), courtesy of a GPU grant from Huggingface!**
